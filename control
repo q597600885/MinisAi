@@ -1,0 +1,9 @@
+Package: com.yourname.atouradfree
+Name: AtourAdFree
+Depends: mobilesubstrate (>= 0.9.5000), ellekit
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: 亚朵去开屏广告插件
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
